@@ -1,0 +1,32 @@
+body {
+    background-image: url(./Images/background.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color:grey;
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: grey;
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: grey;
+}

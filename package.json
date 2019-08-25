@@ -1,0 +1,29 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder app demonstrating Node and Express with jQuery and AJAX.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1",
+    "package-json": "^6.5.0",
+    "path": "^0.12.7",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MannaNna/FriendFinder-NodeAndExpressServers.git"
+  },
+  "author": "Mariana Secu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MannaNna/FriendFinder-NodeAndExpressServers/issues"
+  },
+  "homepage": "https://github.com/MannaNna/FriendFinder-NodeAndExpressServers#readme"
+}
